@@ -1,1 +1,1 @@
-__all__ = ['lightcurve']
+__all__ = ['eblc']
